@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1683428182 source:d:\travel_3\africa_def.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"africa.h"
+
+1683428054 d:\travel_3\africa.h
+	<iostream>
+	<string.h>
+	"europe.h"
+	"person_data.h"
+
+1683428036 d:\travel_3\europe.h
+	<iostream>
+	<string.h>
+	"asia.h"
+
+1683428885 d:\travel_3\asia.h
+	<iostream>
+	<string.h>
+	"continent.h"
+
+1683391894 d:\travel_3\continent.h
+	<iostream>
+	<string.h>
+
+1683438121 d:\travel_3\person_data.h
+
+1683428792 source:d:\travel_3\asia_def.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<typeinfo>
+	"africa.h"
+
+1683428303 source:d:\travel_3\europe_def.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"africa.h"
+
+1683436968 source:d:\travel_3\user_def.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"africa.h"
+
+1683436805 source:d:\travel_3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<conio.h>
+	"africa.h"
+
